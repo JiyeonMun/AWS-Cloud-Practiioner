@@ -8,3 +8,6 @@
 <br/> 이 수업을 통해 클라우드 컴퓨팅에 관심을 갖게 되어 AWS의 Cloud Practitioner 자격증 취득에 도전하게 되었습니다.
 <br/> 👇 아래 파일은 AWS Cloud Practitioner 자격증 취득을 위해 정리하며 제작했던 자료입니다. 👇
 https://drive.google.com/file/d/1VXIPHVB_PFk8hHISchajHtdqutQYmTIv/view?usp=sharing
+
+
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/57402510/168462066-0690f54b-4b5e-47f7-8287-0ee2cf39caed.png){: width="30%" height="30%"}
