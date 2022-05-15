@@ -9,5 +9,7 @@
 <br/> 👇 아래 파일은 AWS Cloud Practitioner 자격증 취득을 위해 정리하며 제작했던 자료입니다. 👇
 https://drive.google.com/file/d/1VXIPHVB_PFk8hHISchajHtdqutQYmTIv/view?usp=sharing
 
-
-![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/57402510/168462066-0690f54b-4b5e-47f7-8287-0ee2cf39caed.png){: width="30%" height="30%"}
+<img src= "https://user-images.githubusercontent.com/57402510/168462066-0690f54b-4b5e-47f7-8287-0ee2cf39caed.png" width="30%" height="30%"> 
+<br/> 해당 뱃지는 2022년 3월 11일에 취득한 뱃지이며, 👇 아래 파일은 해당 뱃지에 대한 자격증입니다. 👇
+<br/> 
+https://drive.google.com/file/d/1fw8hP7GUkPMnkQscqy720ABCnaJxddju/view?usp=sharing
